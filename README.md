@@ -26,9 +26,9 @@ My interest in IT began about 4 years ago when i got my first desktop computer a
 
 I want to learn as much as I can right now and think harder on it as I develop more skill in IT. I think at the moment i am most interested in graphics design, i've always wanted to learn more about it and develop skills around it but never took the time to sit down and learn, it interests me because I love creative designs and creative thinking.
  
- 
- <h6>Skills Required</h6>
-
+   SKILLS REQUIRED:
+   
+   
  - Communication
  
  - Creativity
