@@ -18,3 +18,14 @@ My interest in IT began about 4 years ago when i got my first desktop computer a
 ![45478383_10205046507438999_7040810536249851904_n](https://user-images.githubusercontent.com/48668269/56132178-7dca0400-5fc8-11e9-92ab-e3e01873bf30.jpg)
 
 
+
+<h4>My Ideal Job</h4>
+
+
+<h5>Graphics Design</h5>
+
+I want to learn as much as I can right now and think harder on it as I develop more skill in IT. I think at the moment i am most interested in graphics design, i've always wanted to learn more about it and develop skills around it but never took the time to sit down and learn, it interests me because I love creative designs and creative thinking.
+ 
+ 
+ 
+ 
