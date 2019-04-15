@@ -19,7 +19,7 @@ My interest in IT began about 4 years ago when i got my first desktop computer a
 
 
 
-<h4>My Ideal Job</h4>
+<h4>My Ideal Job?</h4>
 
 
 <h5>Graphics Design</h5>
@@ -27,5 +27,20 @@ My interest in IT began about 4 years ago when i got my first desktop computer a
 I want to learn as much as I can right now and think harder on it as I develop more skill in IT. I think at the moment i am most interested in graphics design, i've always wanted to learn more about it and develop skills around it but never took the time to sit down and learn, it interests me because I love creative designs and creative thinking.
  
  
+ <h6>Skills Required</h6>
+
+ - Communication
+ 
+ - Creativity
+ 
+ - Understanding various forms of Technologies
+ 
+ - Time Management 
+ 
+ - Typography
+ 
+ - Knowledge of colour theory
+ 
+I plan to obtain these skills by finishing my information technology studies and then continuing on to graphics design courses or      further study to build and obtain more knowledge and skills for my future.
  
  
