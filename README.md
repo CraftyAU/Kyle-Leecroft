@@ -1,15 +1,9 @@
-
-
-
-
-
-
 <h2>About Me</h2>
 
 I'm a 21 year old male that lives in a small town named Roxby Downs.
 I've lived here for most of my life, originally from Broken Hill, New South Wales. I spend most of my time at home on my computer, gaming, browsing social media, watching shows, movies and videos on YouTube. When i'm not doing that i'm either doing shut down work on the mine site for BHP trying to earn some money whilst I do my university studies through RMIT online or i'm around my girlfriend for the rest of my time during the day.
 
-
+![12936506_10201435280680587_7212252680052582646_n (2)](https://user-images.githubusercontent.com/48668269/56132691-cc2bd280-5fc9-11e9-9535-53676ba5532d.jpg)
 
 
 
