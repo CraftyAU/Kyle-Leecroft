@@ -42,7 +42,10 @@ I want to learn as much as I can right now and think harder on it as I develop m
  - Knowledge of colour theory
  
 I plan to obtain these skills by finishing my information technology studies and then continuing on to graphics design courses or      further study to build and obtain more knowledge and skills for my future.
- 
+
+Student ID: s3775657
+
+Student Email: s3775657@student.rmit.edu.au 
  
  
 ![Graphic-_Design](https://user-images.githubusercontent.com/48668269/56136005-05b40c00-5fd1-11e9-86e5-9cd57c7cf314.jpg)
